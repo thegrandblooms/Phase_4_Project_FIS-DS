@@ -1,6 +1,5 @@
 ![Header Graphic](https://github.com/thegrandblooms/Phase_4_Project_FIS-DS/blob/c1442bc8111b37945f3ec61caba1b970ff6689fc/graphics/header.jpg)
 # Pneumonia Detection with Deep Learning - Flatiron Data Science, Phase 4 Project
-Author: Blake McMeekin
 
 ## Overview
 Pneumonia is a potentially life-threatening ["infection that inflames the air sacs in one or both lungs."](https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204#:~:text=Pneumonia%20is%20an%20infection%20that,and%20fungi%2C%20can%20cause%20pneumonia.) "A variety of organisms, including bacteria, viruses and fungi can cause pneumonia." Pneumonia is especially relevant today in the treatment of serious Covid-19 infections. 
